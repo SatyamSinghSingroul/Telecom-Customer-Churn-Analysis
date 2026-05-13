@@ -77,10 +77,10 @@ Two interactive dashboard pages built in Power BI:
 ## 📈 Dashboard Preview
 
 ### Summary Dashboard
-![Churn Analysis Summary Dashboard](screenshots/Churn-analysis-summary.png)
+![Churn Analysis Summary Dashboard](Screenshots/Churn-analysis-summary.png)
 
 ### Churn Prediction Dashboard
-![Churn Prediction Dashboard](screenshots/Churn-analysis-prediction.png)
+![Churn Prediction Dashboard](Screenshots/Churn-analysis-prediction.png)
 
 ---
 
@@ -96,7 +96,7 @@ Two interactive dashboard pages built in Power BI:
 
 **Top predictive features:** Total Revenue, Contract Type, Total Charges, Monthly Charge, Total Long Distance Charges
 
-![Model Output](screenshots/confusion_matrix.png)
+![Model Output](Screenshots/confusion_matrix.png)
 
 ---
 
